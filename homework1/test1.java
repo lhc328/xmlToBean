@@ -14,7 +14,7 @@ import javax.xml.transform.stream.StreamResult;
 
 import org.w3c.dom.*;
 
-
+//bean to xml
 public class test1 {
 	public static void main(String[] args) {
 		Person person = new Person();
