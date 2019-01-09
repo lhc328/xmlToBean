@@ -13,7 +13,7 @@ import org.w3c.dom.NodeList;
 
 import homework2.Address;
 import homework2.Person;
-
+//xml to bean
 public class test2 {
 	public static void main(String[] args) {
 		Person person = new Person();
